@@ -27,15 +27,15 @@ const num = 100000
 
 
 // ****************** vvi Math.random *******************
-console.log(Math.random());
+// console.log(Math.random());
 // console.log((Math.random())*10);
-// console.log((Math.random()*10)+1);
+// console.log((Math.random()*100)+1);
 // console.log(Math.floor(Math.random()*10)+1);
 
 // ***************   VVi ***********************************
 
 const min  = 5
-const max = 20
+const max = 10;
 console.log(Math.floor(Math.random()*(max-min+1))+min);
 // ***************   VVi ***********************************
 
