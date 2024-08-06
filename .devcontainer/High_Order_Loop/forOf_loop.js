@@ -20,13 +20,13 @@
 //     console.log(`Each Char is :${greet} `)
 // }
 
-// maps => hold only unique values
+// maps => hold only unique values  not iterable
 
-const map = new Map()
-map.set('In',"india")
-map.set('In',"india")
-map.set('Ne',"Nepal")
-map.set('fr',"framce")
+// const map = new Map()
+// map.set('In',"india")
+// map.set('In',"india")
+// map.set('Ne',"Nepal")
+// map.set('fr',"framce")
 // console.log(map);
 
 // for (const element of map) {
